@@ -1,0 +1,26 @@
+#content {
+    font-size: 150%;
+    line-height: 150%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#content br {
+    margin-bottom: 5px;
+}
+
+#content #next {
+    margin-top: 10px;
+    float: right;
+}
+
+#choices {
+    margin-top: 20px;
+}
+
+#choices input {
+    margin-top: 20px;
+}
+
