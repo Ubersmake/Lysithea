@@ -1,3 +1,5 @@
+This repo has been archived. Its successor is [Adventure](https://github.com/Ubersmake/Adventure).
+
 # Lysithea
 
 A text adventure engine.
